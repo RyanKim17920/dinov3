@@ -16,3 +16,7 @@ dist/
 
 # Ignore vscode directory
 .vscode/
+
+output_dinov3_bench
+
+slurms
